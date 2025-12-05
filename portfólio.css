@@ -181,14 +181,17 @@ details[open] #barrafixa{
     flex-wrap: wrap;
     margin-bottom:20em;
     gap: 1em;
+    justify-content: center;
 
 }
 #servicos3{
+    gap: 1em;
     display: flex;
     flex-direction: column;
     margin-right: 5em;
    margin-left: 5em;
    align-items: center;
+   margin-bottom: 10em;
 
    
 }
