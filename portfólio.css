@@ -180,6 +180,7 @@ details[open] #barrafixa{
     color: #000;
     flex-wrap: wrap;
     margin-bottom:20em;
+    gap: 1em;
 
 }
 #servicos3{
