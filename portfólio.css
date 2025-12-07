@@ -77,6 +77,7 @@ body{
     max-height:5em;
     border-radius:15px;
     margin-right:2em;
+
 }
 #icone1:hover{
    max-width:5em;
@@ -107,8 +108,8 @@ body{
     font-style: normal;
     padding: 1em 1em;
     width: 12em;
+    left: 0;
     justify-content:start;
-    left: 12em;
     height:fit-content;
     border-radius:20px;
 }
@@ -162,7 +163,7 @@ details[open] #barrafixa{
     height:15em;
     width: 15em;
     border-radius: 120px;
-    margin-top:2em;
+    margin-top:5em;
     border: 1px blueviolet
 }
 /*pj fim*/
@@ -235,6 +236,8 @@ details[open] #barrafixa{
     font-style: normal;
     color:#000;
     margin-bottom:2em;
+    margin-left:0.5em;
+    margin-right:0.5em;
 
 }
 /* fim ana luiza r.*/
@@ -279,6 +282,7 @@ details[open] #barrafixa{
     font-optical-sizing: auto;
     font-weight: 100;
     font-style: normal;
+    margin: 1em 2em;
 }
 #perfil2{
  font-family: "Poppins", sans-serif;
@@ -353,7 +357,7 @@ details[open] #barrafixa{
 #font2{
     font-family: "lora-regular", serif;
     font-size: 1.6rem;
-    opacity:66%;
+   color: gray;
 }
 #cabecalhocontato{
     margin-top:4em;
@@ -474,7 +478,7 @@ textarea, #mensagem{
     font-weight: 700;
     font-style: normal;
     font-size: 3em;
-    margin: 0;
+    margin: 0 1em;
 }
 #titulo2{
     font-family: "Lora", serif;
@@ -482,7 +486,7 @@ textarea, #mensagem{
     font-weight: 100;
     font-style: normal;
     font-size: 1.5em;
-    margin: 0;
+    margin: 0 1em;
     padding-bottom:1.2rem;
 }
 #conteudo{
